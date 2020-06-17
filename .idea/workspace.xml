@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57bd0570-f111-4b9e-903c-16cfd8c73cd0" name="Default Changelist" comment="" />
+    <list default="true" id="57bd0570-f111-4b9e-903c-16cfd8c73cd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/torch-qf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/torch-qf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/torch_qf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/torch_qf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/torch_qf/examples/.ipynb_checkpoints/PlainVanillaOptions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torch_qf/examples/PlainVanillaOptions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/torch_qf/options/black-scholes/vanilla_option.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dMNmZy4vtvv0YVTWZbARYtrYk7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -49,9 +60,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1592240742492">
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1592299451976">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592240742492" />
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1592299451976" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1592299456295">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592299456295" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1592299368697">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592299368697" />
   </component>
 </project>
